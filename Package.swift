@@ -7,7 +7,7 @@ let package = Package(
     name: "sample_cal",
     dependencies: [
         // Dependencies declare other packages that this package depends on.
-        .package(url: "https://github.com/apple/swift-argument-parser", .exact("0.4.3")),
+        .package(url: "https://github.com/apple/swift-argument-parser", .exact("0.4.4")),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
